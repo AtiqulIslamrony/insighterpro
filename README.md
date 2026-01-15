@@ -327,6 +327,38 @@
 
 ---
 
+## 💝 Support Our Work
+
+<div align="center">
+
+**Love Insighter Pro? Help us keep it free and awesome!**
+
+Insighter Pro is **100% free** and will always be. We spend countless hours developing new features, fixing bugs, and adding support for more platforms. Your support helps us dedicate more time to making this tool even better!
+
+<br>
+
+<a href="https://www.patreon.com/cw/insighterpro">
+  <img src="https://img.shields.io/badge/Patreon-Support_Us-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Support on Patreon" height="50">
+</a>
+
+<br><br>
+
+### ✨ Why Support Us?
+
+🚀 **Faster Updates** – More time to add features you need  
+🎯 **Priority Support** – Get help when you need it  
+💡 **New Features** – Your suggestions come first  
+🌟 **Early Access** – Test new features before everyone else  
+❤️ **Keep it Free** – Help us maintain this tool for the community
+
+<br>
+
+<sub>Even a small contribution makes a huge difference! 🙏</sub>
+
+</div>
+
+---
+
 ## 🙏 Special Thanks
 
 <p>
