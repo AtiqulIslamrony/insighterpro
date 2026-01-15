@@ -67,36 +67,48 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img width="60" src="https://img.icons8.com/fluency/96/pixel.png" alt="Pixels"/>
-<br><strong>Pixel Detection</strong>
+<br>
+<h3>🎯</h3>
+<strong>Pixel Detection</strong>
 <br><sub>11+ platforms with IDs & events</sub>
+<br><br>
 </td>
 <td align="center" width="33%">
-<img width="60" src="https://img.icons8.com/fluency/96/activity-feed.png" alt="Events"/>
-<br><strong>Real-time Events</strong>
+<br>
+<h3>⚡</h3>
+<strong>Real-time Events</strong>
 <br><sub>See every event as it fires</sub>
+<br><br>
 </td>
 <td align="center" width="33%">
-<img width="60" src="https://img.icons8.com/fluency/96/data-configuration.png" alt="DataLayer"/>
-<br><strong>DataLayer Explorer</strong>
+<br>
+<h3>📦</h3>
+<strong>DataLayer Explorer</strong>
 <br><sub>Search, filter & inspect</sub>
+<br><br>
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
-<img width="60" src="https://img.icons8.com/fluency/96/cookie.png" alt="Storage"/>
-<br><strong>Storage Manager</strong>
+<br>
+<h3>🍪</h3>
+<strong>Storage Manager</strong>
 <br><sub>Cookies, localStorage & more</sub>
+<br><br>
 </td>
 <td align="center" width="33%">
-<img width="60" src="https://img.icons8.com/fluency/96/code.png" alt="Tech"/>
-<br><strong>Tech Stack</strong>
+<br>
+<h3>🔧</h3>
+<strong>Tech Stack</strong>
 <br><sub>200+ technologies detected</sub>
+<br><br>
 </td>
 <td align="center" width="33%">
-<img width="60" src="https://img.icons8.com/fluency/96/privacy.png" alt="Consent"/>
-<br><strong>Consent Mode</strong>
+<br>
+<h3>🔒</h3>
+<strong>Consent Mode</strong>
 <br><sub>GCS/GCD & 15+ CMPs</sub>
+<br><br>
 </td>
 </tr>
 </table>
