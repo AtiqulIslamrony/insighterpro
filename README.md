@@ -1,332 +1,342 @@
-# 🎯 Insighter Pro
+<p align="center">
+  <img src="icons/icon128.png" alt="Insighter Pro Logo" width="120" height="120">
+</p>
 
-**The Ultimate Marketing & Analytics Debugging Tool**
-
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/AtiqulIslamRony/insighterpro)
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-green.svg)](https://chrome.google.com/webstore)
-[![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
-[![Platforms](https://img.shields.io/badge/platforms-200%2B-orange.svg)](#-supported-platforms)
+<h1 align="center">🎯 Insighter Pro</h1>
 
 <p align="center">
-  <img src="icons/icon128.png" alt="Insighter Pro Logo" width="128" height="128">
+  <strong>The Ultimate Marketing & Analytics Debugging Tool</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0.0-00E5C7?style=for-the-badge&labelColor=1a1a2e" alt="Version">
+  <img src="https://img.shields.io/badge/platforms-200%2B-FF6B6B?style=for-the-badge&labelColor=1a1a2e" alt="Platforms">
+  <img src="https://img.shields.io/badge/chrome-extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a2e" alt="Chrome">
+  <img src="https://img.shields.io/badge/manifest-v3-00D4AA?style=for-the-badge&labelColor=1a1a2e" alt="Manifest V3">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GA4-✓-F9AB00?style=flat-square" alt="GA4">
+  <img src="https://img.shields.io/badge/Meta_Pixel-✓-0081FB?style=flat-square" alt="Meta">
+  <img src="https://img.shields.io/badge/GTM-✓-4285F4?style=flat-square" alt="GTM">
+  <img src="https://img.shields.io/badge/TikTok-✓-000000?style=flat-square" alt="TikTok">
+  <img src="https://img.shields.io/badge/Adobe-✓-FF0000?style=flat-square" alt="Adobe">
+  <img src="https://img.shields.io/badge/Tealium-✓-00B2A9?style=flat-square" alt="Tealium">
 </p>
 
 ---
 
-## 📖 About
+<p align="center">
+  <img src="screenshots/01-pixels-dark.png" alt="Insighter Pro Screenshot" width="380">
+  <img src="screenshots/02-pixels-light.png" alt="Insighter Pro Light Mode" width="380">
+</p>
 
-Insighter Pro is the most comprehensive Chrome extension for debugging marketing pixels, analytics tracking, and web technologies. With support for **200+ platforms**, it's the only tool you need for tracking validation and debugging.
+---
 
-Perfect for:
-- 📈 Digital Marketing Specialists
-- 🔧 Analytics Engineers
-- 🏷️ Tag Management Consultants
-- 💻 Web Developers
-- ✅ QA Engineers
-- 🏢 Marketing Agencies
+## ⚡ Why Insighter Pro?
+
+<table>
+<tr>
+<td width="50%">
+
+### 😫 Before Insighter Pro
+- Opening 5+ different extensions
+- Switching between multiple tabs
+- Missing tracking events
+- No consent mode visibility
+- Wasting hours debugging
+
+</td>
+<td width="50%">
+
+### 😎 With Insighter Pro
+- **ONE tool** for everything
+- **200+** platforms detected
+- **Real-time** event monitoring
+- **Consent mode** checker built-in
+- Debug in **seconds**, not hours
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Features
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img width="60" src="https://img.icons8.com/fluency/96/pixel.png" alt="Pixels"/>
+<br><strong>Pixel Detection</strong>
+<br><sub>11+ platforms with IDs & events</sub>
+</td>
+<td align="center" width="33%">
+<img width="60" src="https://img.icons8.com/fluency/96/activity-feed.png" alt="Events"/>
+<br><strong>Real-time Events</strong>
+<br><sub>See every event as it fires</sub>
+</td>
+<td align="center" width="33%">
+<img width="60" src="https://img.icons8.com/fluency/96/data-configuration.png" alt="DataLayer"/>
+<br><strong>DataLayer Explorer</strong>
+<br><sub>Search, filter & inspect</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img width="60" src="https://img.icons8.com/fluency/96/cookie.png" alt="Storage"/>
+<br><strong>Storage Manager</strong>
+<br><sub>Cookies, localStorage & more</sub>
+</td>
+<td align="center" width="33%">
+<img width="60" src="https://img.icons8.com/fluency/96/code.png" alt="Tech"/>
+<br><strong>Tech Stack</strong>
+<br><sub>200+ technologies detected</sub>
+</td>
+<td align="center" width="33%">
+<img width="60" src="https://img.icons8.com/fluency/96/privacy.png" alt="Consent"/>
+<br><strong>Consent Mode</strong>
+<br><sub>GCS/GCD & 15+ CMPs</sub>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📸 Screenshots
 
-### Pixel Detection (Dark Mode)
-<img src="screenshots/01-pixels-dark.png" alt="Pixel Detection Dark Mode" width="400">
+<details>
+<summary><b>🎯 Pixel Detection</b> (click to expand)</summary>
+<br>
+<p align="center">
+  <img src="screenshots/01-pixels-dark.png" alt="Pixels Dark" width="400">
+</p>
+<p align="center"><em>Instantly detect GA4, Meta, GTM, Google Ads, TikTok & more</em></p>
+</details>
 
-*Instantly detect GA4, Google Ads, Meta Pixel, LinkedIn, and more*
+<details>
+<summary><b>⚡ Real-time Events</b> (click to expand)</summary>
+<br>
+<p align="center">
+  <img src="screenshots/03-events.png" alt="Events" width="400">
+</p>
+<p align="center"><em>See every tracking event with full parameters</em></p>
+</details>
 
-### Pixel Detection (Light Mode)
-<img src="screenshots/02-pixels-light.png" alt="Pixel Detection Light Mode" width="400">
+<details>
+<summary><b>📦 DataLayer Explorer</b> (click to expand)</summary>
+<br>
+<p align="center">
+  <img src="screenshots/04-datalayer.png" alt="DataLayer" width="400">
+</p>
+<p align="center"><em>Full dataLayer inspection with search & filtering</em></p>
+</details>
 
-*Beautiful light mode for any preference*
+<details>
+<summary><b>🔒 Consent Mode</b> (click to expand)</summary>
+<br>
+<p align="center">
+  <img src="screenshots/05-consent.png" alt="Consent" width="400">
+</p>
+<p align="center"><em>Google Consent Mode v1/v2 and CMP detection</em></p>
+</details>
 
-### Real-time Events
-<img src="screenshots/03-events.png" alt="Real-time Events" width="400">
+<details>
+<summary><b>🍪 Storage Manager</b> (click to expand)</summary>
+<br>
+<p align="center">
+  <img src="screenshots/06-storage.png" alt="Storage" width="400">
+</p>
+<p align="center"><em>Manage cookies, localStorage & sessionStorage</em></p>
+</details>
 
-*See every tracking event as it fires with full parameters*
+<details>
+<summary><b>💉 GTM Injector</b> (click to expand)</summary>
+<br>
+<p align="center">
+  <img src="screenshots/07-gtm-injector.png" alt="GTM Injector" width="400">
+</p>
+<p align="center"><em>Test GTM on any website without code changes</em></p>
+</details>
 
-### DataLayer Explorer
-<img src="screenshots/04-datalayer.png" alt="DataLayer Explorer" width="400">
+---
 
-*Full dataLayer inspection with search and filtering*
+## 🎯 Supported Platforms
 
-### Consent Mode Detection
-<img src="screenshots/05-consent.png" alt="Consent Mode" width="400">
+<table>
+<tr>
+<th>📊 Analytics</th>
+<th>📢 Marketing</th>
+<th>🎯 Attribution</th>
+</tr>
+<tr>
+<td>
 
-*Google Consent Mode v1/v2 and CMP detection*
+- Google Analytics 4
+- Adobe Analytics
+- Adobe Launch
+- Tealium iQ
+- Mixpanel
+- Amplitude
+- Segment
+- Heap
+- Hotjar
+- Clarity
+- PostHog
+- Matomo
+- Pendo
+- FullStory
+- *and more...*
 
-### Storage Manager
-<img src="screenshots/06-storage.png" alt="Storage Manager" width="400">
+</td>
+<td>
 
-*Manage cookies, localStorage, and sessionStorage*
+- Meta Pixel
+- Google Ads
+- TikTok Pixel
+- LinkedIn Insight
+- Pinterest Tag
+- Snapchat Pixel
+- Twitter/X Pixel
+- Reddit Pixel
+- Criteo
+- Taboola
+- Outbrain
+- HubSpot
+- Klaviyo
+- *and more...*
 
-### GTM Injector
-<img src="screenshots/07-gtm-injector.png" alt="GTM Injector" width="400">
+</td>
+<td>
 
-*Test Google Tag Manager on any website*
+- Hyros
+- Triple Whale
+- Northbeam
+- CallRail
+- AppsFlyer
+- Adjust
+- Branch
+- Rockerbox
+- Wicked Reports
+- Ruler Analytics
+- *and more...*
 
-### Shopify Custom Pixel Support
-<img src="screenshots/08-shopify-pixel.png" alt="Shopify Custom Pixel" width="400">
+</td>
+</tr>
+</table>
 
-*Full support for Shopify Custom Pixel dataLayer*
+<details>
+<summary><b>🔒 Consent Management Platforms (15+)</b></summary>
+<br>
 
-### Tech Stack Detection
-<img src="screenshots/09-tech-stack.png" alt="Tech Stack" width="400">
+| Platform | Detection |
+|----------|-----------|
+| OneTrust | ✅ API + Cookie |
+| Cookiebot | ✅ API + Cookie |
+| TrustArc | ✅ Cookie |
+| Quantcast | ✅ TCF 2.0 |
+| Didomi | ✅ API |
+| Usercentrics | ✅ API |
+| Complianz | ✅ Cookie |
+| Iubenda | ✅ Cookie |
+| Termly | ✅ Cookie |
+| CookieYes | ✅ Cookie |
+| Sourcepoint | ✅ API |
 
-*Detect 200+ web technologies instantly*
+</details>
 
-### About Section
-<img src="screenshots/10-about.png" alt="About" width="400">
+---
 
-*Learn about the team behind Insighter Pro*
+## 📥 Installation
+
+### Chrome Web Store
+> 🔗 *Coming soon...*
+
+### Manual Installation
+
+```bash
+1. Download the latest release
+2. Go to chrome://extensions
+3. Enable "Developer mode" (top right)
+4. Click "Load unpacked"
+5. Select the extension folder
+```
+
+---
+
+## 🔒 Privacy
+
+**Your data stays with YOU.**
+
+- ✅ All analysis happens **locally** in your browser
+- ✅ **Zero** data collection
+- ✅ **No** external servers
+- ✅ **No** tracking or analytics
+
+[Read Full Privacy Policy](PRIVACY_POLICY.md)
 
 ---
 
 ## 👥 Created By
 
-| Role | Name | Links |
-|------|------|-------|
-| **Creator & Lead Developer** | Atiqul Islam | [LinkedIn](https://linkedin.com/in/insighteratiqul) • [GitHub](https://github.com/AtiqulIslamRony) |
-| **Co-Founder** | Abdul Kader Shimul | [LinkedIn](https://linkedin.com/in/shimul-a-kader) |
-
-### 🙏 Special Thanks
-Nadim Mahmud Sizan, Rafiqul Islam Siman, Imran Hossain, Md Abu Sufiyan, Md Zobair
-
----
-
-## ✨ Features
-
-### 🎯 Pixel Detection (11+ Platforms)
-- Google Analytics 4 (GA4)
-- Google Tag Manager (GTM)
-- Meta Pixel (Facebook)
-- Google Ads Conversion Tracking
-- TikTok Pixel
-- LinkedIn Insight Tag
-- Pinterest Tag
-- Snapchat Pixel
-- Twitter/X Pixel
-- Reddit Pixel
-- Microsoft Ads (Bing)
-
-### 📊 Real-time Event Inspector
-- See every event as it fires
-- View all parameters and values
-- Filter by event type or platform
-- Copy event data with one click
-
-### 📦 DataLayer Explorer
-- Full dataLayer inspection
-- Real-time updates
-- Search and filter entries
-- Push custom events for testing
-- Expandable nested objects
-
-### 🍪 Storage Manager
-- Cookies viewer & editor
-- localStorage inspection
-- sessionStorage inspection
-- Delete or modify values
-- Search functionality
-
-### 🔧 Tech Stack Detection (200+ Technologies)
-- **Analytics**: Adobe Analytics, Amplitude, Mixpanel, Segment, Heap, PostHog, Matomo
-- **Tag Managers**: GTM, Adobe Launch, Tealium iQ, Ensighten
-- **Attribution**: Hyros, Triple Whale, CallRail, AppsFlyer, Branch
-- **CDPs**: Segment, mParticle, Bloomreach, Treasure Data
-- **CMPs**: OneTrust, Cookiebot, TrustArc, Didomi
-- **Chat**: Intercom, Drift, Zendesk, Crisp, Gorgias
-- **A/B Testing**: Optimizely, VWO, LaunchDarkly, AB Tasty
-- **And 150+ more!**
-
-### 🔒 Consent Mode Detection
-- Google Consent Mode v1 (GCS) & v2 (GCD)
-- 15+ CMP platform detection
-- Real-time consent status
-- Cookie-based detection
-
-### 💉 GTM Injector
-- Test GTM on any website
-- No code changes required
-- Perfect for audits
-
-### 🔗 UTM Parameter Checker
-- Validate campaign parameters
-- Check for missing UTMs
-- Copy UTM string
-
-### 🌙 Dark & Light Mode
-- Beautiful UI in any lighting
-- System preference detection
-- Manual toggle
+<table>
+<tr>
+<td align="center">
+<img src="team/atiqul.jpg" width="100" style="border-radius:50%">
+<br>
+<strong>Atiqul Islam</strong>
+<br>
+<sub>Founder & Lead Developer</sub>
+<br>
+<sub>Tracking & Analytics Specialist</sub>
+<br><br>
+<a href="https://linkedin.com/in/insighteratiqul">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="22">
+</a>
+<a href="https://github.com/AtiqulIslamRony">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="22">
+</a>
+</td>
+<td align="center">
+<img src="team/shimul.jpg" width="100" style="border-radius:50%">
+<br>
+<strong>Abdul Kader Shimul</strong>
+<br>
+<sub>Co-Founder</sub>
+<br>
+<sub>Paid Media & Google Ads Expert</sub>
+<br><br>
+<a href="https://linkedin.com/in/shimul-a-kader">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="22">
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Installation
+## 🙏 Special Thanks
 
-### From Chrome Web Store (Recommended)
-1. Visit [Chrome Web Store](https://chrome.google.com/webstore)
-2. Search for "Insighter Pro"
-3. Click "Add to Chrome"
+<p>
+<strong>Nadim Mahmud Sizan</strong> • <strong>Rafiqul Islam Siman</strong> • <strong>Imran Hossain</strong> • <strong>Md Abu Sufiyan</strong> • <strong>Md Zobair</strong>
+</p>
 
-### Manual Installation (Developer Mode)
-1. Download the latest release from [Releases](https://github.com/AtiqulIslamRony/insighterpro/releases)
-2. Unzip the file
-3. Go to `chrome://extensions`
-4. Enable "Developer mode" (top right)
-5. Click "Load unpacked"
-6. Select the unzipped folder
+<sub>For their valuable tips, suggestions, and support throughout the development journey.</sub>
 
 ---
 
-## 📋 Supported Platforms
-
-<details>
-<summary><b>Analytics & Tag Management (35+)</b></summary>
-
-- Google Analytics 4
-- Google Tag Manager
-- Adobe Analytics
-- Adobe Launch
-- Adobe Target
-- Adobe Audience Manager
-- Tealium iQ
-- Tealium AudienceStream
-- Mixpanel
-- Amplitude
-- Segment
-- Heap
-- FullStory
-- Hotjar
-- Microsoft Clarity
-- PostHog
-- Matomo
-- Plausible
-- Pendo
-- Kissmetrics
-- And more...
-</details>
-
-<details>
-<summary><b>Marketing & Advertising (50+)</b></summary>
-
-- Meta Pixel (Facebook)
-- Google Ads
-- TikTok Pixel
-- LinkedIn Insight Tag
-- Pinterest Tag
-- Snapchat Pixel
-- Twitter/X Pixel
-- Reddit Pixel
-- Microsoft Ads (Bing)
-- Amazon Ads
-- Taboola
-- Outbrain
-- Criteo
-- AdRoll
-- The Trade Desk
-- HubSpot
-- Klaviyo
-- Mailchimp
-- ActiveCampaign
-- Marketo
-- And more...
-</details>
-
-<details>
-<summary><b>Attribution & Call Tracking (15+)</b></summary>
-
-- Hyros
-- Triple Whale
-- Northbeam
-- Rockerbox
-- Wicked Reports
-- CallRail
-- CallTrackingMetrics
-- Invoca
-- AppsFlyer
-- Adjust
-- Branch
-- Kochava
-- Singular
-- And more...
-</details>
-
-<details>
-<summary><b>Consent Management (11)</b></summary>
-
-- OneTrust
-- Cookiebot
-- TrustArc
-- Quantcast Choice
-- Didomi
-- Sourcepoint
-- Usercentrics
-- Complianz
-- Iubenda
-- Termly
-- CookieYes
-</details>
-
----
-
-## 🛠️ Permissions Explained
-
-| Permission | Why We Need It |
-|------------|----------------|
-| `activeTab` | Access current tab for scanning |
-| `scripting` | Inject detection scripts |
-| `storage` | Save your preferences |
-| `tabs` | Get tab information |
-| `cookies` | Read cookies for analysis |
-| `webNavigation` | Detect page navigation |
-| `webRequest` | Monitor network requests |
-
-**We do NOT collect any personal data.** All analysis happens locally in your browser.
-
----
-
-## 📝 Changelog
-
-### v1.0.0 (Initial Release)
-- 🎯 200+ platform detection
-- 📊 Real-time event monitoring
-- 📦 DataLayer explorer with search & filter
-- 🍪 Storage manager (cookies, localStorage, sessionStorage)
-- 🔒 Consent Mode detection (15+ CMPs, GCS/GCD)
-- 💉 GTM injector for testing
-- 🔗 UTM parameter checker
-- 🌙 Dark/Light mode
-- 🎨 Beautiful, professional UI
-
----
-
-## 💖 Support the Project
-
-If Insighter Pro helps you in your work:
-
-- ⭐ [Star on GitHub](https://github.com/AtiqulIslamRony/insighterpro)
-- 🎁 [Support on Patreon](https://patreon.com/insighterpro)
-- 📢 Share with colleagues
-
----
-
-## 🐛 Found a Bug?
-
-Please [open an issue](https://github.com/AtiqulIslamRony/insighterpro/issues) with:
-- Browser version
-- Steps to reproduce
-- Screenshot if possible
-
----
-
-## 📜 License
+## 📄 License
 
 **© 2024-2026 Atiqul Islam & Abdul Kader Shimul. All Rights Reserved.**
 
-This is proprietary software. Unauthorized copying, modification, or distribution is strictly prohibited. See [LICENSE](LICENSE) for details.
+This is proprietary software. See [LICENSE](LICENSE) for details.
 
 ---
 
 <p align="center">
-  <b>Built with ❤️ for the Marketing Community</b>
+<strong>Built with ❤️ for the Marketing Community</strong>
+</p>
+
+<p align="center">
+<sub>If Insighter Pro saves you time, consider sharing it with your colleagues!</sub>
 </p>
