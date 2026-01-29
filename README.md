@@ -261,18 +261,11 @@
 
 ## 📥 Installation
 
-### Chrome Web Store
-> 🔗 *Coming soon...*
-
-### Manual Installation
-
-```bash
-1. Download the latest release
-2. Go to chrome://extensions
-3. Enable "Developer mode" (top right)
-4. Click "Load unpacked"
-5. Select the extension folder
-```
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/insighter-pro-marketing-a/bfpddkljoofdiomkmbbmfgbgmfhpgoec?authuser=0&hl=en">
+    <img src="https://img.shields.io/badge/Install_from-Chrome_Web_Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Web Store" height="50">
+  </a>
+</p>
 
 ---
 
