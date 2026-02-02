@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/25020111/README.md)
+
 <p align="center">
   <img src="icons/icon128.png" alt="Insighter Pro Logo" width="120" height="120">
 </p>
