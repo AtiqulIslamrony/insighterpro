@@ -10,7 +10,7 @@
 
 # Insighter Pro
 
-### The Ultimate Marketing & Analytics Debugging Tool
+### GTM, GA4, Meta Pixel, Google Ads & TikTok Debugger
 
 <br>
 
@@ -152,11 +152,11 @@
 <tr>
 <td align="center" width="33%">
 <br>
-<img src="https://img.shields.io/badge/💉-EF4444?style=for-the-badge&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/🔄-EF4444?style=for-the-badge&logoColor=white" height="40">
 <br><br>
-<strong>GTM Injector</strong>
+<strong>GTM Preview & Loader</strong>
 <br>
-<sub>Test GTM containers on any<br>website without code changes<br>— perfect for audits & QA</sub>
+<sub>Load and preview any GTM container<br>on any website for debugging<br>— perfect for audits & QA</sub>
 <br><br>
 </td>
 <td align="center" width="33%">
@@ -234,12 +234,12 @@
 </details>
 
 <details>
-<summary><b>💉 GTM Injector</b> — click to expand</summary>
+<summary><b>🔄 GTM Preview & Loader</b> — click to expand</summary>
 <br>
 <p align="center">
-<img src="screenshots/07-gtm-injector.png" alt="GTM Injector" width="450">
+<img src="screenshots/07-gtm-injector.png" alt="GTM Preview & Loader" width="450">
 </p>
-<p align="center"><sub>Test GTM containers on any website without touching code</sub></p>
+<p align="center"><sub>Load and preview any GTM container on any website for debugging</sub></p>
 </details>
 
 <br>
@@ -473,6 +473,10 @@ Sourcepoint<br>
 <br>
 <sub>📢 Media Buying Expert</sub>
 <br><br>
+<a href="https://www.linkedin.com/in/nmsizan98/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20">
+</a>
+<br><br>
 </td>
 <td align="center" width="25%">
 <br>
@@ -481,6 +485,10 @@ Sourcepoint<br>
 <strong>Rafiqul Islam Siman</strong>
 <br>
 <sub>🔍 SEO & Ads Specialist</sub>
+<br><br>
+<a href="https://www.linkedin.com/in/rafiqul-islam-0a0a99388/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20">
+</a>
 <br><br>
 </td>
 <td align="center" width="25%">
@@ -491,6 +499,10 @@ Sourcepoint<br>
 <br>
 <sub>⚙️ DevOps Engineer</sub>
 <br><br>
+<a href="https://www.linkedin.com/in/mohammad-abu-sufian/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20">
+</a>
+<br><br>
 </td>
 <td align="center" width="25%">
 <br>
@@ -499,6 +511,10 @@ Sourcepoint<br>
 <strong>Imran Hossain</strong>
 <br>
 <sub>💻 Backend Engineer</sub>
+<br><br>
+<a href="https://www.linkedin.com/in/freewhats/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20">
+</a>
 <br><br>
 </td>
 </tr>
@@ -511,6 +527,10 @@ Sourcepoint<br>
 <br>
 <sub>🔧 GoHighLevel Expert</sub>
 <br><br>
+<a href="https://www.linkedin.com/in/mdzobair/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20">
+</a>
+<br><br>
 </td>
 <td align="center" width="25%">
 <br>
@@ -520,6 +540,10 @@ Sourcepoint<br>
 <br>
 <sub>📊 Google Ads Expert</sub>
 <br><br>
+<a href="https://www.linkedin.com/in/alimul-islam-emon/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20">
+</a>
+<br><br>
 </td>
 <td align="center" width="25%">
 <br>
@@ -528,6 +552,10 @@ Sourcepoint<br>
 <strong>Sakib Hossain</strong>
 <br>
 <sub>🎨 Graphics Designer</sub>
+<br><br>
+<a href="https://www.linkedin.com/in/sakib-r-hossain">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20">
+</a>
 <br><br>
 </td>
 <td align="center" width="25%">
