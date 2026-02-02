@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/25020111/README.md)
 <p align="center">
   <img src="icons/icon128.png" alt="Insighter Pro Logo" width="120" height="120">
 </p>
@@ -9,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-00E5C7?style=for-the-badge&labelColor=1a1a2e" alt="Version">
+  <img src="https://img.shields.io/badge/version-1.0.5-F57C00?style=for-the-badge&labelColor=1a1a2e" alt="Version">
   <img src="https://img.shields.io/badge/platforms-200%2B-FF6B6B?style=for-the-badge&labelColor=1a1a2e" alt="Platforms">
   <img src="https://img.shields.io/badge/chrome-extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a2e" alt="Chrome">
   <img src="https://img.shields.io/badge/manifest-v3-00D4AA?style=for-the-badge&labelColor=1a1a2e" alt="Manifest V3">
@@ -309,7 +310,7 @@
 <br>
 <sub>Co-Founder</sub>
 <br>
-<sub>Paid Media & Google Ads Expert</sub>
+<sub>Paid Media Analyst | Ads Conversion Tracking & Google Ads Expert</sub>
 <br><br>
 <a href="https://linkedin.com/in/shimul-a-kader">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="22">
@@ -317,6 +318,66 @@
 </td>
 </tr>
 </table>
+
+---
+
+## 🙏 Special Thanks
+
+<table>
+<tr>
+<td align="center" width="14%">
+<img src="team/nadim.jpg" width="80" style="border-radius:50%">
+<br>
+<strong>Nadim Mahmud Sizan</strong>
+<br>
+<sub>Media Buying Expert</sub>
+</td>
+<td align="center" width="14%">
+<img src="team/rafiqul.jpg" width="80" style="border-radius:50%">
+<br>
+<strong>Rafiqul Islam Siman</strong>
+<br>
+<sub>SEO & Ads Specialist</sub>
+</td>
+<td align="center" width="14%">
+<img src="team/sufiyan.jpg" width="80" style="border-radius:50%">
+<br>
+<strong>Md Abu Sufiyan</strong>
+<br>
+<sub>DevOps Engineer</sub>
+</td>
+<td align="center" width="14%">
+<img src="team/imran.jpg" width="80" style="border-radius:50%">
+<br>
+<strong>Imran Hossain</strong>
+<br>
+<sub>Backend Engineer</sub>
+</td>
+<td align="center" width="14%">
+<img src="team/zobair.jpg" width="80" style="border-radius:50%">
+<br>
+<strong>Md Zobair</strong>
+<br>
+<sub>GoHighLevel Expert</sub>
+</td>
+<td align="center" width="14%">
+<img src="team/emon.jpg" width="80" style="border-radius:50%">
+<br>
+<strong>Md Alimul Islam Emon</strong>
+<br>
+<sub>Google Ads Expert</sub>
+</td>
+<td align="center" width="14%">
+<img src="team/sakib.jpg" width="80" style="border-radius:50%">
+<br>
+<strong>Sakib Hossain</strong>
+<br>
+<sub>Graphics Designer</sub>
+</td>
+</tr>
+</table>
+
+<sub>For their valuable tips, suggestions, and support throughout the development journey.</sub>
 
 ---
 
@@ -330,7 +391,7 @@ Insighter Pro is **100% free** and will always be. We spend countless hours deve
 
 <br>
 
-<a href="https://www.patreon.com/cw/insighterpro">
+<a href="https://www.patreon.com/2951366/join">
   <img src="https://img.shields.io/badge/Patreon-Support_Us-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Support on Patreon" height="50">
 </a>
 
@@ -349,16 +410,6 @@ Insighter Pro is **100% free** and will always be. We spend countless hours deve
 <sub>Even a small contribution makes a huge difference! 🙏</sub>
 
 </div>
-
----
-
-## 🙏 Special Thanks
-
-<p>
-<strong>Nadim Mahmud Sizan</strong> • <strong>Rafiqul Islam Siman</strong> • <strong>Imran Hossain</strong> • <strong>Md Abu Sufiyan</strong> • <strong>Md Zobair</strong>
-</p>
-
-<sub>For their valuable tips, suggestions, and support throughout the development journey.</sub>
 
 ---
 
