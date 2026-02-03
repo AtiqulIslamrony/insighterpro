@@ -16,9 +16,9 @@
 
 <br>
 
-[![Version](https://img.shields.io/badge/v1.0.6-F57C00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=1a1a2e&label=version)](https://chromewebstore.google.com/detail/insighter-debugger/bfpddkljoofdiomkmbbmfgbgmfhpgoec)
+[![Version](https://img.shields.io/badge/v1.0.5-F57C00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=1a1a2e&label=version)](https://chromewebstore.google.com/detail/insighter-debugger/fhldgghpdblfcjcflkgfeiflehmejenl)
 [![Platforms](https://img.shields.io/badge/200%2B-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1a1a2e&label=platforms)](.)
-[![Chrome](https://img.shields.io/badge/extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a2e&label=chrome)](https://chromewebstore.google.com/detail/insighter-debugger/bfpddkljoofdiomkmbbmfgbgmfhpgoec)
+[![Chrome](https://img.shields.io/badge/extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a2e&label=chrome)](https://chromewebstore.google.com/detail/insighter-debugger/fhldgghpdblfcjcflkgfeiflehmejenl)
 [![MV3](https://img.shields.io/badge/v3-00D4AA?style=for-the-badge&logo=webcomponentsdotorg&logoColor=white&labelColor=1a1a2e&label=manifest)](.)
 [![License](https://img.shields.io/badge/proprietary-8B5CF6?style=for-the-badge&logo=shield&logoColor=white&labelColor=1a1a2e&label=license)](LICENSE)
 
@@ -39,7 +39,7 @@
 
 <br>
 
-<a href="https://chromewebstore.google.com/detail/insighter-debugger/bfpddkljoofdiomkmbbmfgbgmfhpgoec">
+<a href="https://chromewebstore.google.com/detail/insighter-debugger/fhldgghpdblfcjcflkgfeiflehmejenl">
 <img src="https://img.shields.io/badge/⬇_Install_Free_from_Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install" height="52">
 </a>
 
@@ -342,7 +342,7 @@ Sourcepoint<br>
 
 <div align="center">
 
-<a href="https://chromewebstore.google.com/detail/insighter-debugger/bfpddkljoofdiomkmbbmfgbgmfhpgoec">
+<a href="https://chromewebstore.google.com/detail/insighter-debugger/fhldgghpdblfcjcflkgfeiflehmejenl">
 <img src="https://img.shields.io/badge/⬇_Install_Free_from_Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store" height="52">
 </a>
 
@@ -356,7 +356,7 @@ Sourcepoint<br>
 
 <br>
 
-<a href="https://github.com/AtiqulIslamrony/insighterpro/blob/main/USER_GUIDE.md">
+<a href="https://atiqulislamrony.github.io/insighterpro/">
 <img src="https://img.shields.io/badge/📖_Read_the_Full_User_Guide-F57C00?style=for-the-badge&logoColor=white" alt="User Guide" height="40">
 </a>
 
@@ -433,7 +433,7 @@ Sourcepoint<br>
 <tr>
 <td align="center" width="50%">
 <br>
-<img src="team/shimul.jpg" width="120" height="120">
+<img src="team/shimul.jpg" width="120" height="120" style="border-radius: 50%;">
 <br><br>
 <strong>Abdul Kader Shimul</strong>
 <br>
@@ -448,7 +448,7 @@ Sourcepoint<br>
 </td>
 <td align="center" width="50%">
 <br>
-<img src="team/atiqul.jpg" width="120" height="120">
+<img src="team/atiqul.jpg" width="120" height="120" style="border-radius: 50%;">
 <br><br>
 <strong>Atiqul Islam</strong>
 <br>
@@ -653,7 +653,7 @@ This is proprietary software. See [LICENSE](LICENSE) for details.
 
 <br>
 
-<a href="https://chromewebstore.google.com/detail/insighter-debugger/bfpddkljoofdiomkmbbmfgbgmfhpgoec">
+<a href="https://chromewebstore.google.com/detail/insighter-debugger/fhldgghpdblfcjcflkgfeiflehmejenl">
 <img src="https://img.shields.io/badge/⭐_Rate_on_Chrome_Web_Store-F57C00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Rate" height="35">
 </a>
 
