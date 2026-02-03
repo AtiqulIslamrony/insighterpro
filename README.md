@@ -352,6 +352,12 @@ Sourcepoint<br>
 
 > 💡 **Tip:** Pin the extension to your toolbar for quick access!
 
+<br>
+
+<a href="USER_GUIDE.md">
+<img src="https://img.shields.io/badge/📖_Read_the_Full_User_Guide-F57C00?style=for-the-badge&logoColor=white" alt="User Guide" height="40">
+</a>
+
 </div>
 
 <br>
