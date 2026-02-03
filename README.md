@@ -14,34 +14,17 @@
 
 <br>
 
-[![Version](https://img.shields.io/badge/v1.0.5-F57C00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=1a1a2e&label=version)](https://chromewebstore.google.com/detail/insighter-pro-marketing-a/bfpddkljoofdiomkmbbmfgbgmfhpgoec)
-[![Platforms](https://img.shields.io/badge/200%2B-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1a1a2e&label=platforms)](.)
-[![Chrome](https://img.shields.io/badge/extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a2e&label=chrome)](https://chromewebstore.google.com/detail/insighter-pro-marketing-a/bfpddkljoofdiomkmbbmfgbgmfhpgoec)
-[![MV3](https://img.shields.io/badge/v3-00D4AA?style=for-the-badge&logo=webcomponentsdotorg&logoColor=white&labelColor=1a1a2e&label=manifest)](.)
-[![License](https://img.shields.io/badge/proprietary-8B5CF6?style=for-the-badge&logo=shield&logoColor=white&labelColor=1a1a2e&label=license)](LICENSE)
+**v1.0.5** · **200+ Platforms** · **Chrome Extension** · **Manifest V3** · **Proprietary License**
 
 <br>
 
-<p>
-<img src="https://img.shields.io/badge/GA4-✓-F9AB00?style=flat-square" alt="GA4">&nbsp;
-<img src="https://img.shields.io/badge/Google_Ads-✓-4285F4?style=flat-square" alt="Google Ads">&nbsp;
-<img src="https://img.shields.io/badge/GTM-✓-4285F4?style=flat-square" alt="GTM">&nbsp;
-<img src="https://img.shields.io/badge/Meta_Pixel-✓-0081FB?style=flat-square" alt="Meta">&nbsp;
-<img src="https://img.shields.io/badge/TikTok-✓-000000?style=flat-square" alt="TikTok">&nbsp;
-<img src="https://img.shields.io/badge/LinkedIn-✓-0A66C2?style=flat-square" alt="LinkedIn">&nbsp;
-<img src="https://img.shields.io/badge/Snapchat-✓-FFFC00?style=flat-square&logoColor=000" alt="Snapchat">&nbsp;
-<img src="https://img.shields.io/badge/Pinterest-✓-E60023?style=flat-square" alt="Pinterest">&nbsp;
-<img src="https://img.shields.io/badge/Adobe-✓-FF0000?style=flat-square" alt="Adobe">&nbsp;
-<img src="https://img.shields.io/badge/Tealium-✓-00B2A9?style=flat-square" alt="Tealium">
-</p>
+✅ GA4 · ✅ Google Ads · ✅ GTM · ✅ Meta Pixel · ✅ TikTok · ✅ LinkedIn · ✅ Snapchat · ✅ Pinterest · ✅ Adobe · ✅ Tealium
 
 <br>
 
-<a href="https://chromewebstore.google.com/detail/insighter-pro-marketing-a/bfpddkljoofdiomkmbbmfgbgmfhpgoec?authuser=0&hl=en">
-<img src="https://img.shields.io/badge/⬇_Install_Free_from_Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install" height="52">
-</a>
+### [⬇️ Install Free from Chrome Web Store](https://chromewebstore.google.com/detail/insighter-pro-marketing-a/bfpddkljoofdiomkmbbmfgbgmfhpgoec)
 
-<br><br>
+<br>
 
 <img src="screenshots/01-pixels-dark.png" alt="Insighter Pro Dark Mode" width="380">&nbsp;&nbsp;<img src="screenshots/02-pixels-light.png" alt="Insighter Pro Light Mode" width="380">
 
@@ -90,95 +73,17 @@
 
 ## 🎯 Core Features
 
-<table>
-<tr>
-<td align="center" width="33%">
-<br>
-<img src="https://img.shields.io/badge/🎯-F57C00?style=for-the-badge&logoColor=white" height="40">
-<br><br>
-<strong>Pixel Detection</strong>
-<br>
-<sub>Detect GA4, Meta, GTM, Google Ads,<br>TikTok, LinkedIn & 11+ platforms<br>with IDs, events & SST status</sub>
-<br><br>
-</td>
-<td align="center" width="33%">
-<br>
-<img src="https://img.shields.io/badge/⚡-FF6B6B?style=for-the-badge&logoColor=white" height="40">
-<br><br>
-<strong>Real-time Events</strong>
-<br>
-<sub>Watch every tracking event fire<br>in real-time with full payload,<br>parameters & request details</sub>
-<br><br>
-</td>
-<td align="center" width="33%">
-<br>
-<img src="https://img.shields.io/badge/📦-4285F4?style=for-the-badge&logoColor=white" height="40">
-<br><br>
-<strong>DataLayer Explorer</strong>
-<br>
-<sub>Deep-inspect dataLayer pushes<br>with search, filter, friendly labels<br>& expandable tree view</sub>
-<br><br>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<br>
-<img src="https://img.shields.io/badge/🍪-00D4AA?style=for-the-badge&logoColor=white" height="40">
-<br><br>
-<strong>Storage Manager</strong>
-<br>
-<sub>View, edit & delete cookies,<br>localStorage & sessionStorage<br>with size tracking & filtering</sub>
-<br><br>
-</td>
-<td align="center" width="33%">
-<br>
-<img src="https://img.shields.io/badge/🔧-8B5CF6?style=for-the-badge&logoColor=white" height="40">
-<br><br>
-<strong>Tech Stack Detection</strong>
-<br>
-<sub>Identify 200+ technologies:<br>CMS, frameworks, CDN, hosting,<br>analytics & marketing tools</sub>
-<br><br>
-</td>
-<td align="center" width="33%">
-<br>
-<img src="https://img.shields.io/badge/🔒-F59E0B?style=for-the-badge&logoColor=white" height="40">
-<br><br>
-<strong>Consent Mode v2</strong>
-<br>
-<sub>Check Google Consent Mode<br>GCS/GCD states & detect<br>15+ CMP platforms</sub>
-<br><br>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<br>
-<img src="https://img.shields.io/badge/🔄-EF4444?style=for-the-badge&logoColor=white" height="40">
-<br><br>
-<strong>GTM Preview & Loader</strong>
-<br>
-<sub>Load and preview any GTM container<br>on any website for debugging<br>— perfect for audits & QA</sub>
-<br><br>
-</td>
-<td align="center" width="33%">
-<br>
-<img src="https://img.shields.io/badge/🔍-06B6D4?style=for-the-badge&logoColor=white" height="40">
-<br><br>
-<strong>Insights & Quick Checks</strong>
-<br>
-<sub>UTM parameters, network<br>request monitoring & automated<br>health diagnostics</sub>
-<br><br>
-</td>
-<td align="center" width="33%">
-<br>
-<img src="https://img.shields.io/badge/🌙-1E293B?style=for-the-badge&logoColor=white" height="40">
-<br><br>
-<strong>Dark & Light Mode</strong>
-<br>
-<sub>Beautiful UI with smooth<br>theme switching & premium<br>animated elements</sub>
-<br><br>
-</td>
-</tr>
-</table>
+| Feature | Description |
+|:---:|:---|
+| 🎯 **Pixel Detection** | Detect GA4, Meta, GTM, Google Ads, TikTok, LinkedIn & 200+ platforms with IDs, events & SST status |
+| ⚡ **Real-time Events** | Watch every tracking event fire in real-time with full payload, parameters & request details |
+| 📦 **DataLayer Explorer** | Deep-inspect dataLayer pushes with search, filter, friendly labels & expandable tree view |
+| 🍪 **Storage Manager** | View, edit & delete cookies, localStorage & sessionStorage with size tracking & filtering |
+| 🔧 **Tech Stack Detection** | Identify 200+ technologies: CMS, frameworks, CDN, hosting, analytics & marketing tools |
+| 🔒 **Consent Mode v2** | Check Google Consent Mode GCS/GCD states & detect 15+ CMP platforms |
+| 🔄 **GTM Preview & Loader** | Load and preview any GTM container on any website for debugging — perfect for audits & QA |
+| 🔍 **Insights & Quick Checks** | UTM parameters, network request monitoring & automated health diagnostics |
+| 🌙 **Dark & Light Mode** | Beautiful UI with smooth theme switching & premium animated elements |
 
 <br>
 
@@ -340,13 +245,11 @@ Sourcepoint<br>
 
 <div align="center">
 
-<a href="https://chromewebstore.google.com/detail/insighter-pro-marketing-a/bfpddkljoofdiomkmbbmfgbgmfhpgoec?authuser=0&hl=en">
-<img src="https://img.shields.io/badge/⬇_Install_Free_from_Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store" height="52">
-</a>
+### [⬇️ Install Free from Chrome Web Store](https://chromewebstore.google.com/detail/insighter-pro-marketing-a/bfpddkljoofdiomkmbbmfgbgmfhpgoec)
 
-<br><br>
+<br>
 
-**1.** Click the button above → **2.** Add to Chrome → **3.** Visit any website → **4.** Click the Insighter Pro icon
+**1.** Click the link above → **2.** Add to Chrome → **3.** Visit any website → **4.** Click the Insighter Pro icon
 
 <br>
 
@@ -354,9 +257,7 @@ Sourcepoint<br>
 
 <br>
 
-<a href="USER_GUIDE.md">
-<img src="https://img.shields.io/badge/📖_Read_the_Full_User_Guide-F57C00?style=for-the-badge&logoColor=white" alt="User Guide" height="40">
-</a>
+### [📖 Read the Full User Guide](https://github.com/AtiqulIslamrony/insighterpro/blob/main/USER_GUIDE.md)
 
 </div>
 
@@ -394,7 +295,7 @@ Sourcepoint<br>
 <br><sub>No external servers,<br>no API calls home</sub>
 </td>
 <td align="center" width="25%">
-<h3>👁️‍🗨️</h3>
+<h3>👁️</h3>
 <strong>No Tracking</strong>
 <br><sub>Zero analytics or<br>telemetry in the extension</sub>
 </td>
@@ -403,11 +304,11 @@ Sourcepoint<br>
 
 <br>
 
-<p align="center">
-<a href="PRIVACY_POLICY.md">
-<img src="https://img.shields.io/badge/Read_Full_Privacy_Policy-1a1a2e?style=for-the-badge&logo=shield&logoColor=white" alt="Privacy Policy" height="30">
-</a>
-</p>
+<div align="center">
+
+### [🔒 Read Full Privacy Policy](privacy-policy.html)
+
+</div>
 
 <br>
 
@@ -435,12 +336,7 @@ Sourcepoint<br>
 <br>
 <sub>Tracking & Analytics Specialist</sub>
 <br><br>
-<a href="https://linkedin.com/in/insighteratiqul">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="24">
-</a>&nbsp;
-<a href="https://github.com/AtiqulIslamRony">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="24">
-</a>
+<a href="https://linkedin.com/in/insighteratiqul">LinkedIn</a> · <a href="https://github.com/AtiqulIslamRony">GitHub</a>
 <br><br>
 </td>
 <td align="center" width="50%">
@@ -453,9 +349,7 @@ Sourcepoint<br>
 <br>
 <sub>Paid Media Analyst | Ads Conversion Tracking & Google Ads Expert</sub>
 <br><br>
-<a href="https://linkedin.com/in/shimul-a-kader">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="24">
-</a>
+<a href="https://linkedin.com/in/shimul-a-kader">LinkedIn</a>
 <br><br>
 </td>
 </tr>
@@ -479,9 +373,7 @@ Sourcepoint<br>
 <br>
 <sub>📢 Media Buying Expert</sub>
 <br><br>
-<a href="https://www.linkedin.com/in/nmsizan98/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20">
-</a>
+<a href="https://www.linkedin.com/in/nmsizan98/">LinkedIn</a>
 <br><br>
 </td>
 <td align="center" width="25%">
@@ -492,9 +384,7 @@ Sourcepoint<br>
 <br>
 <sub>🔍 SEO & Ads Specialist</sub>
 <br><br>
-<a href="https://www.linkedin.com/in/rafiqul-islam-0a0a99388/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20">
-</a>
+<a href="https://www.linkedin.com/in/rafiqul-islam-0a0a99388/">LinkedIn</a>
 <br><br>
 </td>
 <td align="center" width="25%">
@@ -505,9 +395,7 @@ Sourcepoint<br>
 <br>
 <sub>⚙️ DevOps Engineer</sub>
 <br><br>
-<a href="https://www.linkedin.com/in/mohammad-abu-sufian/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20">
-</a>
+<a href="https://www.linkedin.com/in/mohammad-abu-sufian/">LinkedIn</a>
 <br><br>
 </td>
 <td align="center" width="25%">
@@ -518,9 +406,7 @@ Sourcepoint<br>
 <br>
 <sub>💻 Backend Engineer</sub>
 <br><br>
-<a href="https://www.linkedin.com/in/freewhats/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20">
-</a>
+<a href="https://www.linkedin.com/in/freewhats/">LinkedIn</a>
 <br><br>
 </td>
 </tr>
@@ -533,9 +419,7 @@ Sourcepoint<br>
 <br>
 <sub>🔧 GoHighLevel Expert</sub>
 <br><br>
-<a href="https://www.linkedin.com/in/mdzobair/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20">
-</a>
+<a href="https://www.linkedin.com/in/mdzobair/">LinkedIn</a>
 <br><br>
 </td>
 <td align="center" width="25%">
@@ -546,9 +430,7 @@ Sourcepoint<br>
 <br>
 <sub>📊 Google Ads Expert</sub>
 <br><br>
-<a href="https://www.linkedin.com/in/alimul-islam-emon/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20">
-</a>
+<a href="https://www.linkedin.com/in/alimul-islam-emon/">LinkedIn</a>
 <br><br>
 </td>
 <td align="center" width="25%">
@@ -559,9 +441,7 @@ Sourcepoint<br>
 <br>
 <sub>🎨 Graphics Designer</sub>
 <br><br>
-<a href="https://www.linkedin.com/in/sakib-r-hossain">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20">
-</a>
+<a href="https://www.linkedin.com/in/sakib-r-hossain">LinkedIn</a>
 <br><br>
 </td>
 <td align="center" width="25%">
@@ -590,13 +470,11 @@ Sourcepoint<br>
 We spend countless hours building features, squashing bugs, and adding support for new platforms.
 <br>Your support helps us dedicate more time to making this tool even better for the community.
 
-<br><br>
+<br>
 
-<a href="https://www.patreon.com/2951366/join">
-<img src="https://img.shields.io/badge/☕_Support_Us_on_Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" height="55">
-</a>
+### [☕ Support Us on Patreon](https://www.patreon.com/2951366/join)
 
-<br><br>
+<br>
 
 | | |
 |:---:|:---:|
@@ -645,9 +523,7 @@ This is proprietary software. See [LICENSE](LICENSE) for details.
 
 <br>
 
-<a href="https://chromewebstore.google.com/detail/insighter-pro-marketing-a/bfpddkljoofdiomkmbbmfgbgmfhpgoec?authuser=0&hl=en">
-<img src="https://img.shields.io/badge/⭐_Rate_on_Chrome_Web_Store-F57C00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Rate" height="35">
-</a>
+### [⭐ Rate on Chrome Web Store](https://chromewebstore.google.com/detail/insighter-pro-marketing-a/bfpddkljoofdiomkmbbmfgbgmfhpgoec)
 
 <br><br>
 
