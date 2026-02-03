@@ -12,11 +12,13 @@
 
 ### GTM, GA4, Meta Pixel, Google Ads & TikTok Debugger
 
+**A Product of Insighter**
+
 <br>
 
-[![Version](https://img.shields.io/badge/v1.0.5-F57C00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=1a1a2e&label=version)](https://chromewebstore.google.com/detail/insighter-pro-marketing-a/bfpddkljoofdiomkmbbmfgbgmfhpgoec)
+[![Version](https://img.shields.io/badge/v1.0.6-F57C00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=1a1a2e&label=version)](https://chromewebstore.google.com/detail/insighter-debugger/bfpddkljoofdiomkmbbmfgbgmfhpgoec)
 [![Platforms](https://img.shields.io/badge/200%2B-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1a1a2e&label=platforms)](.)
-[![Chrome](https://img.shields.io/badge/extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a2e&label=chrome)](https://chromewebstore.google.com/detail/insighter-pro-marketing-a/bfpddkljoofdiomkmbbmfgbgmfhpgoec)
+[![Chrome](https://img.shields.io/badge/extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a2e&label=chrome)](https://chromewebstore.google.com/detail/insighter-debugger/bfpddkljoofdiomkmbbmfgbgmfhpgoec)
 [![MV3](https://img.shields.io/badge/v3-00D4AA?style=for-the-badge&logo=webcomponentsdotorg&logoColor=white&labelColor=1a1a2e&label=manifest)](.)
 [![License](https://img.shields.io/badge/proprietary-8B5CF6?style=for-the-badge&logo=shield&logoColor=white&labelColor=1a1a2e&label=license)](LICENSE)
 
@@ -37,7 +39,7 @@
 
 <br>
 
-<a href="https://chromewebstore.google.com/detail/insighter-pro-marketing-a/bfpddkljoofdiomkmbbmfgbgmfhpgoec?authuser=0&hl=en">
+<a href="https://chromewebstore.google.com/detail/insighter-debugger/bfpddkljoofdiomkmbbmfgbgmfhpgoec">
 <img src="https://img.shields.io/badge/⬇_Install_Free_from_Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install" height="52">
 </a>
 
@@ -98,7 +100,7 @@
 <br><br>
 <strong>Pixel Detection</strong>
 <br>
-<sub>Detect GA4, Meta, GTM, Google Ads,<br>TikTok, LinkedIn & 11+ platforms<br>with IDs, events & SST status</sub>
+<sub>Detect GA4, Meta, GTM, Google Ads,<br>TikTok, LinkedIn & 200+ platforms<br>with IDs, events & SST status</sub>
 <br><br>
 </td>
 <td align="center" width="33%">
@@ -340,7 +342,7 @@ Sourcepoint<br>
 
 <div align="center">
 
-<a href="https://chromewebstore.google.com/detail/insighter-pro-marketing-a/bfpddkljoofdiomkmbbmfgbgmfhpgoec?authuser=0&hl=en">
+<a href="https://chromewebstore.google.com/detail/insighter-debugger/bfpddkljoofdiomkmbbmfgbgmfhpgoec">
 <img src="https://img.shields.io/badge/⬇_Install_Free_from_Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store" height="52">
 </a>
 
@@ -419,9 +421,13 @@ Sourcepoint<br>
 
 <div align="center">
 
-### Founders
+### 🏢 Insighter
+
+**Insighter Debugger is a product of Insighter**
 
 </div>
+
+<br>
 
 <table>
 <tr>
@@ -431,7 +437,9 @@ Sourcepoint<br>
 <br><br>
 <strong>Abdul Kader Shimul</strong>
 <br>
-<sub>🚀 Founder & CEO of Insighter</sub>
+<sub>🏢 Founder & CEO of Insighter</sub>
+<br>
+<sub>Paid Media Analyst | CRO Engineer | Google Ads Audit & Optimizer</sub>
 <br><br>
 <a href="https://linkedin.com/in/shimul-a-kader">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="24">
@@ -444,7 +452,7 @@ Sourcepoint<br>
 <br><br>
 <strong>Atiqul Islam</strong>
 <br>
-<sub>💻 Lead Developer</sub>
+<sub>💻 Creator & Lead Developer</sub>
 <br>
 <sub>Web Analytics & Tracking Expert</sub>
 <br><br>
@@ -617,7 +625,9 @@ We spend countless hours building features, squashing bugs, and adding support f
 
 <p align="center">
 
-**© 2024-2026 Insighter. All Rights Reserved.**
+**© 2024-2026 Abdul Kader Shimul & Atiqul Islam. All Rights Reserved.**
+
+Insighter Debugger is a product of **Insighter**.
 
 This is proprietary software. See [LICENSE](LICENSE) for details.
 
@@ -635,7 +645,7 @@ This is proprietary software. See [LICENSE](LICENSE) for details.
 
 <br><br>
 
-**Built with 🧡 for the Marketing Community**
+**Built with 🧡 by Insighter for the Marketing Community**
 
 <br>
 
@@ -643,7 +653,7 @@ This is proprietary software. See [LICENSE](LICENSE) for details.
 
 <br>
 
-<a href="https://chromewebstore.google.com/detail/insighter-pro-marketing-a/bfpddkljoofdiomkmbbmfgbgmfhpgoec?authuser=0&hl=en">
+<a href="https://chromewebstore.google.com/detail/insighter-debugger/bfpddkljoofdiomkmbbmfgbgmfhpgoec">
 <img src="https://img.shields.io/badge/⭐_Rate_on_Chrome_Web_Store-F57C00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Rate" height="35">
 </a>
 
