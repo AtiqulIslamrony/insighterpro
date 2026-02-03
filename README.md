@@ -1,14 +1,14 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🎯 INSIGHTER PRO — README                                        -->
+<!-- 🎯 INSIGHTER DEBUGGER — README                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="icons/icon128.png" alt="Insighter Pro" width="140" height="140">
+<img src="icons/icon128.png" alt="Insighter Debugger" width="140" height="140">
 
 <br><br>
 
-# Insighter Pro
+# Insighter Debugger
 
 ### GTM, GA4, Meta Pixel, Google Ads & TikTok Debugger
 
@@ -43,7 +43,7 @@
 
 <br><br>
 
-<img src="screenshots/01-pixels-dark.png" alt="Insighter Pro Dark Mode" width="380">&nbsp;&nbsp;<img src="screenshots/02-pixels-light.png" alt="Insighter Pro Light Mode" width="380">
+<img src="screenshots/01-pixels-dark.png" alt="Insighter Debugger Dark Mode" width="380">&nbsp;&nbsp;<img src="screenshots/02-pixels-light.png" alt="Insighter Debugger Light Mode" width="380">
 
 </div>
 
@@ -53,7 +53,7 @@
 
 <br>
 
-## ⚡ Why Insighter Pro?
+## ⚡ Why Insighter Debugger?
 
 > **Stop juggling 5+ extensions.** Debug all your marketing pixels, events, dataLayer, consent mode, and tech stack from ONE beautiful tool.
 
@@ -61,7 +61,7 @@
 <tr>
 <td width="50%">
 
-### 😫 Without Insighter Pro
+### 😫 Without Insighter Debugger
 - 🔴 Opening 5+ different extensions
 - 🔴 Switching between multiple tabs
 - 🔴 Missing tracking events silently
@@ -71,7 +71,7 @@
 </td>
 <td width="50%">
 
-### 🚀 With Insighter Pro
+### 🚀 With Insighter Debugger
 - 🟢 **ONE tool** for everything
 - 🟢 **200+** platforms detected instantly
 - 🟢 **Real-time** event monitoring
@@ -346,7 +346,7 @@ Sourcepoint<br>
 
 <br><br>
 
-**1.** Click the button above → **2.** Add to Chrome → **3.** Visit any website → **4.** Click the Insighter Pro icon
+**1.** Click the button above → **2.** Add to Chrome → **3.** Visit any website → **4.** Click the Insighter Debugger icon
 
 <br>
 
@@ -427,34 +427,32 @@ Sourcepoint<br>
 <tr>
 <td align="center" width="50%">
 <br>
+<img src="team/shimul.jpg" width="120" height="120">
+<br><br>
+<strong>Abdul Kader Shimul</strong>
+<br>
+<sub>🚀 Founder & CEO of Insighter</sub>
+<br><br>
+<a href="https://linkedin.com/in/shimul-a-kader">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="24">
+</a>
+<br><br>
+</td>
+<td align="center" width="50%">
+<br>
 <img src="team/atiqul.jpg" width="120" height="120">
 <br><br>
 <strong>Atiqul Islam</strong>
 <br>
-<sub>🚀 Founder & Lead Developer</sub>
+<sub>💻 Lead Developer</sub>
 <br>
-<sub>Tracking & Analytics Specialist</sub>
+<sub>Web Analytics & Tracking Expert</sub>
 <br><br>
 <a href="https://linkedin.com/in/insighteratiqul">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="24">
 </a>&nbsp;
 <a href="https://github.com/AtiqulIslamRony">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="24">
-</a>
-<br><br>
-</td>
-<td align="center" width="50%">
-<br>
-<img src="team/shimul.jpg" width="120" height="120">
-<br><br>
-<strong>Abdul Kader Shimul</strong>
-<br>
-<sub>🤝 Co-Founder</sub>
-<br>
-<sub>Paid Media Analyst | Ads Conversion Tracking & Google Ads Expert</sub>
-<br><br>
-<a href="https://linkedin.com/in/shimul-a-kader">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="24">
 </a>
 <br><br>
 </td>
@@ -570,7 +568,7 @@ Sourcepoint<br>
 </table>
 
 <p align="center">
-<sub>Our amazing team members who contributed their expertise, ideas, and passion to make Insighter Pro better every day. 🧡</sub>
+<sub>Our amazing team members who contributed their expertise, ideas, and passion to make Insighter Debugger better every day. 🧡</sub>
 </p>
 
 <br>
@@ -585,7 +583,7 @@ Sourcepoint<br>
 
 <br>
 
-**Insighter Pro is 100% free** — and always will be.
+**Insighter Debugger is 100% free** — and always will be.
 
 We spend countless hours building features, squashing bugs, and adding support for new platforms.
 <br>Your support helps us dedicate more time to making this tool even better for the community.
@@ -605,7 +603,7 @@ We spend countless hours building features, squashing bugs, and adding support f
 
 <br>
 
-<sub>Even sharing Insighter Pro with a colleague makes a huge difference! 🙏</sub>
+<sub>Even sharing Insighter Debugger with a colleague makes a huge difference! 🙏</sub>
 
 <br>
 
@@ -619,7 +617,7 @@ We spend countless hours building features, squashing bugs, and adding support f
 
 <p align="center">
 
-**© 2024-2026 Atiqul Islam & Abdul Kader Shimul. All Rights Reserved.**
+**© 2024-2026 Insighter. All Rights Reserved.**
 
 This is proprietary software. See [LICENSE](LICENSE) for details.
 
@@ -633,7 +631,7 @@ This is proprietary software. See [LICENSE](LICENSE) for details.
 
 <br>
 
-<img src="icons/icon128.png" alt="Insighter Pro" width="50">
+<img src="icons/icon128.png" alt="Insighter Debugger" width="50">
 
 <br><br>
 
@@ -641,7 +639,7 @@ This is proprietary software. See [LICENSE](LICENSE) for details.
 
 <br>
 
-<sub>If Insighter Pro saves you time, share it with your team!</sub>
+<sub>If Insighter Debugger saves you time, share it with your team!</sub>
 
 <br>
 
